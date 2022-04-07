@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Starbucks</string>
+    <string name="app_name" translatable="true">Starbucks</string>
+    <string name="Order_now_label" translatable="true">Order Now</string>
 </resources>
